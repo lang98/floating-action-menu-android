@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FloatingActionMenu</string>
+    <string name="action_menu_1">Item 1</string>
+    <string name="action_menu_2">Item 2</string>
+    <string name="action_menu_3">Item 3</string>
+    <string name="action_menu_4">Item 4</string>
+</resources>
